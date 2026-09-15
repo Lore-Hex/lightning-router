@@ -1,10 +1,10 @@
 {
   "source_repository": "https://github.com/Lore-Hex/quill-router",
-  "source_commit": "4ce51c2da6319d1d9ec75c9a3d82168c3c4fc087",
+  "source_commit": "53d1485c81e9fa3d6b88b5186f06474f44bd07f4",
   "files_sha256": {
     ".github/ISSUE_TEMPLATE/config.yml": "e7603901bdb37ee1c8e85ae800eb79b1dfbb6a9767ff2405ebef46dba585f980",
     ".github/ISSUE_TEMPLATE/support.yml": "b54d59ad064eeb967fe437c114f0010d757a44f554afeba1e54bdc14a65e3b47",
-    ".github/workflows/lightning-experiment.yml": "24d3559aecbe7ba15bf7a99eecd33e65eabffb8fe5f745d5eb36a5cc2d79f72b",
+    ".github/workflows/lightning-experiment.yml": "4b5496929895fa65b89adb6e1e985315fb07c708420024e1110a6a6ceb62c9d6",
     ".github/workflows/sync-source.yml": "5914ed06b3c904514e5e3a1eaeb6bd4751364623fc23523cde9e8717f1331a5a",
     ".gitignore": "168aa3614419ac6a8460a5e82e917d972f13c946ca1ef2c239c82912ef9ddb69",
     "CONTRIBUTING.md": "35cb76b6b985b5c0b88d5a41dbbfccc764f0e58f52599b98c005a66fe6a8fd60",
@@ -47,7 +47,7 @@
     "experiments/lightning_router/setup.mjs": "606715cb844ad8fdc9d57638af051be6088a553a90e8beebb34fbf01a01a500c",
     "experiments/lightning_router/tests/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
     "experiments/lightning_router/tests/browser/cowork.spec.mjs": "44feb420ca079e75ef7c9b517ff2a443648f58c8bfa9ab0c03596e6c36c8727f",
-    "experiments/lightning_router/tests/browser/fixtures.mjs": "1bc0d521dbf47d0355111bf2aebaf6ae89082dea601ada78a0a0d6baffe5b480",
+    "experiments/lightning_router/tests/browser/fixtures.mjs": "891e5b057eae64abfdfe5082d05edd383ea11b153ecdc90681a6df320e4d375c",
     "experiments/lightning_router/tests/browser/funding.spec.mjs": "7cfc767b26bdb387fd9dfddf0bb6ff814f17c24acc1ece0dd711bef7551186dc",
     "experiments/lightning_router/tests/browser/layout.spec.mjs": "aa37ce65ed64bced4eec921a38a55f6f1ff535a250b24474ed9f35a71d9cf7c2",
     "experiments/lightning_router/tests/browser/pages.spec.mjs": "81540cc73125351911606844b3fa7fe6ec9248502e5b49afe1144da0d1bb1e02",
@@ -86,7 +86,7 @@
     "scripts/lightning/bitcoin_startup.sh": "ef941d10a153e86e2a827fd4cc21b0b4854702363fecb92a67c16a6a0c16f8ac",
     "scripts/lightning/connect_funding_node.py": "6bf67ba3ea0120ab0c65be038bad8f6631589e8458f9d4c65cf6998d3f783eb3",
     "scripts/lightning/deploy_web.py": "7f8b9f085dbf2b272e16d9c9e967d2d43cd5832aa6244c24c5794dd4c16016c3",
-    "scripts/lightning/export_repository.py": "ab1bf949c98eb0f0e3a85bb6c00c63f1bebbd6be2a0f3a4e2cf7c82ba1142a8b",
+    "scripts/lightning/export_repository.py": "fbc29bfcff404f6454463b5b27ae87c0e8a0954d09f70eee1eec78d4f295c533",
     "scripts/lightning/install_maintenance.py": "d9b0770808e6e19752b035295e248d6ccb962328450cc4d3d8344ad70a1e6b78",
     "scripts/lightning/lnd_install.py": "ba138d7c42695b242efd4776136df9d07226e23fb48804683365e09311a29ceb",
     "scripts/lightning/lnd_node.py": "be8e8fa3b76ff75a025b81fc9c9aaa676b8a302ae3e7244f2c167ab40281e7af",
@@ -94,6 +94,7 @@
     "scripts/lightning/prune_node.py": "2c1f3350afe8fabda8f64708a03f44c44073393882b056f1373884a1be424ced",
     "scripts/lightning/reliability.py": "b4e3edee750573dbf11668dfa416b7d86e31324e9aee3f789d7d255c9038ec1b",
     "scripts/lightning/spanner_provenance.sql": "39e3b2dd79b042c790aaf715ded82e6ec73196b669814ddeaf7c874fad674351",
-    "scripts/lightning/verify_recovery.py": "73659f5cddf782b330f488a0f56d66de63be945cc793832d0680d0bacdf45964"
+    "scripts/lightning/verify_recovery.py": "73659f5cddf782b330f488a0f56d66de63be945cc793832d0680d0bacdf45964",
+    "tsconfig.json": "ba07c766b5a62143536c75e7425f0c1c49ca30b79b96efd210ae21051d814792"
   }
 }
