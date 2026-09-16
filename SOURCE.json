@@ -1,6 +1,6 @@
 {
   "source_repository": "https://github.com/Lore-Hex/quill-router",
-  "source_commit": "8a90799b219218ec5440aa35b654e6c0d2927e3c",
+  "source_commit": "14cf60d9c355c50ce4df7962575c88697b5a7da5",
   "files_sha256": {
     ".github/ISSUE_TEMPLATE/config.yml": "e7603901bdb37ee1c8e85ae800eb79b1dfbb6a9767ff2405ebef46dba585f980",
     ".github/ISSUE_TEMPLATE/support.yml": "b54d59ad064eeb967fe437c114f0010d757a44f554afeba1e54bdc14a65e3b47",
@@ -108,6 +108,12 @@
     "scripts/lightning/activate_web.py": "b17106acb2617f46a3efcfa142e607044726754f1eadc450a7582b2c79ab1cc7",
     "scripts/lightning/bitcoin_node.py": "560e24999075837b0688ccc69360123ca1592f72fda522926737e59b5fbac9cf",
     "scripts/lightning/bitcoin_startup.sh": "ef941d10a153e86e2a827fd4cc21b0b4854702363fecb92a67c16a6a0c16f8ac",
+    "scripts/lightning/btcpay/Caddyfile": "99fe030a87485a1d08fb1b4e30cecc1cf2555f4a73b5d8cbfc6b9fe7d8fb2b7f",
+    "scripts/lightning/btcpay/__init__.py": "79b37fb292e3498fa7d6ec9d618527df3e6bb2cb10717be111cc6f7edc5c7c06",
+    "scripts/lightning/btcpay/bootstrap.py": "33e4589c3e3595a26d39e37397355a55502d796eedd79bba07e9b073c06a6edd",
+    "scripts/lightning/btcpay/compose.yaml": "f800a4ceac8bf4541812ce25efa0771040c01feb4bf5f09796afd8f6b92d5502",
+    "scripts/lightning/btcpay/deploy.py": "abca4f0a6c0ec2726fad5790d531b2df065f1d7434d215adb73fec649d02281b",
+    "scripts/lightning/btcpay/install.sh": "65f2b0bef1e6c56e60976cf6e504b50939bf4df877fe0974afb0fd3f34971f9b",
     "scripts/lightning/connect_funding_node.py": "6bf67ba3ea0120ab0c65be038bad8f6631589e8458f9d4c65cf6998d3f783eb3",
     "scripts/lightning/deploy_web.py": "7f8b9f085dbf2b272e16d9c9e967d2d43cd5832aa6244c24c5794dd4c16016c3",
     "scripts/lightning/export_repository.py": "484d3c1349f1253a92d23513107b5f7166972b1500781da5b170eb915fd6dc11",
