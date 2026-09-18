@@ -1,6 +1,6 @@
 {
   "source_repository": "https://github.com/Lore-Hex/quill-router",
-  "source_commit": "b4b21181d1bf4e024d59ada4d35eb57650729258",
+  "source_commit": "eec871e2c76b295c11db933119a75db9684f2070",
   "files_sha256": {
     ".github/ISSUE_TEMPLATE/config.yml": "e7603901bdb37ee1c8e85ae800eb79b1dfbb6a9767ff2405ebef46dba585f980",
     ".github/ISSUE_TEMPLATE/support.yml": "b54d59ad064eeb967fe437c114f0010d757a44f554afeba1e54bdc14a65e3b47",
@@ -42,7 +42,7 @@
     "experiments/lightning_router/lightning_router/lookup.py": "7f1f68a8beabb0c764fad44a9f8200ff2852f64eb90c1733de206fc604c3a228",
     "experiments/lightning_router/lightning_router/money.py": "e808004d5a1642c4e3ee88c9bfd3e90942a580d6b151b72cf0e77c140c994794",
     "experiments/lightning_router/lightning_router/pages.py": "f4780e98548b97f89e870b5f660e52a4bbd7dcaa9f85361d5d26be4f67b5c95e",
-    "experiments/lightning_router/lightning_router/rates.py": "b0420593e243330ecadac3ebba67c528cc3312dee45df0a5402a137ae3dc96ce",
+    "experiments/lightning_router/lightning_router/rates.py": "d207b136edf13d777a69ef550a21e4c7a021037bd859823df696d8f3cf9255c4",
     "experiments/lightning_router/lightning_router/reasoning.py": "80d02e7ce59206f416ac3ec5d8bbd1981389a56995397047bc89da2b48bcd32a",
     "experiments/lightning_router/lightning_router/runtime.py": "9cfda09c38c6f25dd201c93b7a42532316239a7b8ab57b3ae7591937914e76ec",
     "experiments/lightning_router/lightning_router/service.py": "ccb3da187e75c958e6823255fdca1a7f8f6e47272a88797841b08afb21caa460",
@@ -87,8 +87,9 @@
     "experiments/lightning_router/tests/test_liquidity.py": "519f94a145f55f5090b1206b7b2c50c71b13af55867decd3ec5599b0aeb98ee8",
     "experiments/lightning_router/tests/test_pages.py": "beadba27a308875941a1f93c4713050a9df87d597dd1a1744c9c867a51bf8ad3",
     "experiments/lightning_router/tests/test_privacy.py": "4616407f8488999531ae30237fc45c60ad8f2331a4d061600a546029e9de5aa6",
+    "experiments/lightning_router/tests/test_rate_concurrency.py": "c679e6652ec5176747c5da3b16f6ce9e247b59d1a68361271e3fabc0cddd149a",
     "experiments/lightning_router/tests/test_reasoning.py": "86b5f7c6ac23b8ee4daca78ee9ce0df3505229cade691e64206fdd1f6fa86fd0",
-    "experiments/lightning_router/tests/test_review_fixes.py": "cfa284f6a694c3aaa4b3cede8ae3d621eb5604968a3dc953c07482e49d21b6dc",
+    "experiments/lightning_router/tests/test_review_fixes.py": "15fd9ba8e74f5300a108f92a1f2f43237b4f459115da5925dfd88c4c107d4e35",
     "experiments/lightning_router/tests/test_review_followup.py": "4baf5d3a442cc2821c80f38707154d60cf3fc8d4d3b6f3dbe33574a5ea7765cd",
     "experiments/lightning_router/tests/test_runtime.py": "e6e82f60a844a12a874dd3bb75b5c6e19fb3d54df0f3a9be764eaa45bffa6f08",
     "experiments/lightning_router/tests/test_trustedrouter.py": "c1c46e454e27b3c04433dadaab5b3aaad8d1d64e8613b1e3fcf80d5f2e3f5376",
