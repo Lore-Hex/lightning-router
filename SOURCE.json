@@ -1,7 +1,8 @@
 {
   "source_repository": "https://github.com/Lore-Hex/quill-router",
-  "source_commit": "1d2354f20a2dd61ec080babdcaf9f82bf714a46e",
+  "source_commit": "c61bca6a35068ad35cec2aef5b1a1d3e74e66065",
   "files_sha256": {
+    ".github/CODEOWNERS": "7172e4e5c616e4791aada1b329332c61e5d6ea9053efe0a94ec7c256af3c7948",
     ".github/ISSUE_TEMPLATE/config.yml": "e7603901bdb37ee1c8e85ae800eb79b1dfbb6a9767ff2405ebef46dba585f980",
     ".github/ISSUE_TEMPLATE/support.yml": "b54d59ad064eeb967fe437c114f0010d757a44f554afeba1e54bdc14a65e3b47",
     ".github/workflows/lightning-experiment.yml": "1b7aeeaa75a7e265f01f3b585d633320e3453b9aa7737e20d9adef6516276a7d",
