@@ -1,6 +1,6 @@
 {
   "source_repository": "https://github.com/Lore-Hex/quill-router",
-  "source_commit": "d501d1360334dbd6c0e200531164131819c3f01f",
+  "source_commit": "25b560c4c4b9920eaf8c67263b857e9467b58ee2",
   "files_sha256": {
     ".github/CODEOWNERS": "7172e4e5c616e4791aada1b329332c61e5d6ea9053efe0a94ec7c256af3c7948",
     ".github/ISSUE_TEMPLATE/config.yml": "e7603901bdb37ee1c8e85ae800eb79b1dfbb6a9767ff2405ebef46dba585f980",
@@ -31,7 +31,7 @@
     "experiments/lightning_router/cloudbuild.yaml": "de119224820b2b4f55bb8283b3c870a7feb046daec4bcb94200434459660502b",
     "experiments/lightning_router/frontend.js": "6744896bb37e2aaf67ae47cd9f81ad403c6962b644767bcf8c0fecdb3c67975a",
     "experiments/lightning_router/lightning_router/__init__.py": "48e59b699a229669cdd6c5f55608147d3b7f8464c63f4beda75cf82eeb2b4af1",
-    "experiments/lightning_router/lightning_router/app.py": "a6e5e6ebdbe9d59039f4b428c6fca1e6924e00e1200674245b89e82e63940c2f",
+    "experiments/lightning_router/lightning_router/app.py": "b6fc5a0207530d3c27e5b6814f74a4eb28babc1e26c4ae8636f9c7e04d7fda78",
     "experiments/lightning_router/lightning_router/catalog.py": "01d1a50648efdb39330cf2a00bb2e13592af73464981427e0e2483240ca6abc6",
     "experiments/lightning_router/lightning_router/credentials.py": "acb06845c712942772a368e3177e93fc379700bc13d84f1177e8d9a8e5023ca9",
     "experiments/lightning_router/lightning_router/credits.py": "96f890f4370614a30db04e436a6871253e66f003587a4e44e2e6807ec3d1ae21",
@@ -77,7 +77,7 @@
     "experiments/lightning_router/tests/test_adapters.py": "f922c1d3b6aa91b5005495277fa60635953f838697300effd2f16dc7bb4df257",
     "experiments/lightning_router/tests/test_api.py": "7a78bbb2630609f95ff0778a7322db3533551ae27d58554946456abc62dbaede",
     "experiments/lightning_router/tests/test_cancel_recovery.py": "1230321d9755b46db2198e424697489686769bac1e83b38b66ea41f4e23fe4fc",
-    "experiments/lightning_router/tests/test_catalog.py": "7e6b1ac236e2da34f621bfcd070be6367034471de35f56936c9b28cc41bda044",
+    "experiments/lightning_router/tests/test_catalog.py": "ddf1f2d627b560721613cf753a807dde4172206dfe685b505e3df6e6eb0e4173",
     "experiments/lightning_router/tests/test_discovery.py": "88503ce8f514b3d7b5accbcb30deb92444f0b79d2db4d848366b8177dbbb1b3d",
     "experiments/lightning_router/tests/test_feedback.py": "3ba776ae27956e3934f16aa09caf9e76e8cb3bf798f986d1a389c53d7196759b",
     "experiments/lightning_router/tests/test_funding.py": "38ea9cfae53b3154dec32879d9a6da84789837a39edc06d585aeaac6cb6d02e7",
